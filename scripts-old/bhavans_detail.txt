@@ -1,0 +1,13 @@
+total number of volumes => 061
+
+first volume, issue when? => August 1954
+
+total no. of articles => 29209
+
+total no. of authors => 6031
+
+total no. of series articles => 411
+
+no. of pages(spread sheet) => 133137
+
+first vol cover page
