@@ -1,0 +1,29 @@
+ 1144  ./configure 
+ 1145  make
+ 1146  make install
+ 1147  sudo make install
+ 1148  cd
+ 1149  ls
+ 1150  cd Desktop/
+ 1151  git clone https://github.com/SrirangaDigital/Nagpur_ebooks.git
+ 1152  cd Nagpur_ebooks/
+ 1153  ls
+ 1154  cd scripts/
+ 1155  ls
+ 1156  cd ..
+ 1157  ls raw-src/H007/Stage1/H7
+ 1158  ls raw-src/H007/Stage1/H7*
+ 1159  cd scripts/
+ 1160  php generate.php H007
+ 1161  cd ..
+ 1162  ls
+ 1163  mkdir tempfiles
+ 1164  cd  scripts/
+ 1165  php generate.php H007
+ 1166  sudo updatedb
+ 1167  locate libTECkit.so.0
+ 1168  sudo ldconfig
+ 1169  php generate.php H007
+ 1170  cd ..
+ 1171  git pull
+ 1172  git status

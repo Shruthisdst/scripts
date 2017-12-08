@@ -1,0 +1,8 @@
+pram_085_03_0467-0472
+aff-1 -> Grand AccÃ©lÃ©rateur National dâ€™Ions Lourds (GANIL), CEA/DSM-CNRS/IN2P3, Bd Henri Becquerel, BP 55027, F-14076 Caen Cedex 5, France
+aff-2 -> Institut Laue-Langevin, BP 156, 6, rue Jules Horowitz, 38042 Grenoble Cedex 9, France
+aff-3 -> LPSC, Université Joseph Fourier Grenoble 1, CNRS/IN2P3, Institut National Polytechnique de Grenoble, F-38026 Grenoble Cedex, France
+aff-4 -> Institut für Kernphysik der Universität zu Köln, Zülpicher Str. 77, 50937 Köln, Germany
+aff-5 -> Institut de Physique Nucléaire de Lyon CNRS/IN2P3, Université Claude Bernard, 4 rue Enrico Fermi, F-69622 Villeurbanne Cedex, France
+aff-6 -> Universita degli Studi and INFN sez. Milano, Via Celoria 16, 20133 Milano, Italy
+aff-7 -> Faculty of Physics, University of Warsaw, ul. Hoza 69, 00-681 Warsaw, Poland

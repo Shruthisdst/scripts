@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d3 20150301//EN" "JATS-journalpublishing1.dtd">
+<article>
+	<front>
+		<journal-meta>
+			<journal-id>boms</journal-id>
+			<journal-title-group>
+				<journal-title>Bulletin of Materials Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Bull. Mater. Sci.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0250-4707</issn>
+			<issn pub-type="electronic">0973-7669</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">boms_023_01_0001-0004</article-id>
+			<article-categories>
+				<series-title>Glasses</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Sol–gel processing of carbidic glasses</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Manocha</surname>
+						<given-names>L. M.</given-names>
+					</name>
+					<string-name>L. M. Manocha</string-name>
+					<email />
+					<xref ref-type="aff" rid="aff-1"/>
+				</contrib>
+				<aff id="aff-1">Department of Materials Science, Sardar Patel University, Vallabh Vidyanagar 388 120, India</aff>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2000-02-00</string-date>
+			</pub-date>
+			<volume>023</volume>
+			<issue>01</issue>
+			<issue-title />
+			<supplementary-material mimetype="application/doc" xlink:href="ello/ondu/kade" />
+			<page-range>0001-0004</page-range>
+			<history>
+				<date date-type="Received">
+					<string-date>1999-09-16</string-date>
+				</date>
+				<date date-type="Revised">
+					<string-date>2000-01-06</string-date>
+				</date>
+			</history>
+			<self-uri xlink:href=""/>
+			<abstract>
+				<p>Carbon incorporation into the silicate network results in the formation of rigid carbidic glasses with improved physical, mechanical and thermal properties. This generated great interest in the development of these heteroatom structured materials through different processing routes. In the present studies, sol–gel processing has been used to prepare silicon based glasses, especially oxycarbides through organic–inorganic hybrid gels by hydrolysis–condensation reactions in silicon alkoxides, 1,4-butanediol and furfuryl alcohol with an aim to introduce Si–C linkages in the precursors at sol level. The incorporation of these linkages has been studied using IR and NMR spectroscopy. These bonds, so introduced, are maintained throughout the processing, especially during pyrolysis to high temperatures. In FFA–TEOS system, copolymerization with optimized mol ratio of the two results in resinous mass. This precursor on pyrolysis to 1000°C results in Si–O–C type amorphous solid black mass. XRD studies on the materials heated to 1400°C exhibit presence of crystalline Si–C and cristobalites in amorphous Si–O–C mass. In organic–inorganic gel system, the pyrolysed mass exhibits phase stability up to much higher temperatures. The carbidic materials so produced have been found to exhibit good resistance against oxidation at 1000°C.</p>
+				<list list-type="bullet">
+					<list-item></list-item>
+				</list>
+				<list list-type="ordered">
+					<list-item></list-item>
+				</list>
+			</abstract>
+			<kwd-group kwd-group-type="author-generated">
+				<kwd>Sol–gel</kwd>
+				<kwd>silicon oxycarbide</kwd>
+				<kwd>organically modified inorganic gels</kwd>
+				<kwd>hydrolysis</kwd>
+				<kwd>pyrolysis</kwd>
+				<kwd>silicon carbide</kwd>
+				<kwd>cristoballites.</kwd>
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>
