@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MathJax TeX Test Page</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
+  });
+</script>
+<script type="text/javascript" src="../test1/MathJax/MathJax.js?config=TeX-AMS_HTML-full"></script>
+
+</head>
+<xsl:stylesheet version="1.0"
+xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
+<xsl:template match="/">
+	<html>
+		<body>
+			<h2>JOURNAL OF SADHANA</h2>
+			<table border="1">
+				<tr bgcolor="#9acd32">	
+					<th>Title</th>
+					<th>Abstract</th>
+				</tr>
+				<xsl:for-each select="jsd/volume/issue/entry">
+					<tr>
+						<td><xsl:value-of select="title" /></td>
+						<td><xsl:value-of select="abstract" /></td>
+					</tr>
+				</xsl:for-each>
+			</table>
+		</body>
+	</html>
+</xsl:template>
+</xsl:stylesheet>
+</html>

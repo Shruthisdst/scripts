@@ -1,0 +1,1 @@
+SELECT authorname FROM article GROUP BY authorname HAVING count(*) > 1

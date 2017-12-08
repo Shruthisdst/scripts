@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bms SYSTEM "bms.dtd">
+<?xml-stylesheet type="text/xsl" href="Sadhana.xsl"?>
+
+<bms>
+	<volume vnum="023">
+		<issue inum="01" month="02" year="2000">
+			<entry issup="0">
+				<title>Sol–gel processing of carbidic glasses</title>
+				<feature>Glasses</feature>
+				<page>0001-0004</page>
+				<abstract>
+                    <p>Carbon incorporation into the silicate network results in the formation of rigid carbidic glasses with improved physical, mechanical and thermal properties. This generated great interest in the development of these heteroatom structured materials through different processing routes. In the present studies, sol–gel processing has been used to prepare silicon based glasses, especially oxycarbides through organic–inorganic hybrid gels by hydrolysis–condensation reactions in silicon alkoxides, 1,4-butanediol and furfuryl alcohol with an aim to introduce Si–C linkages in the precursors at sol level. The incorporation of these linkages has been studied using IR and NMR spectroscopy. These bonds, so introduced, are maintained throughout the processing, especially during pyrolysis to high temperatures. In FFA–TEOS system, copolymerization with optimized mol ratio of the two results in resinous mass. This precursor on pyrolysis to $1000^\circ $C results in Si–O–C type amorphous solid black mass. XRD studies on the materials heated to $1400^\circ $C exhibit presence of crystalline Si–C and cristobalites in amorphous Si–O–C mass. In organic–inorganic gel system, the pyrolysed mass exhibits phase stability up to much higher temperatures. The carbidic materials so produced have been found to exhibit good resistance against oxidation at $1000^\circ $C.</p>
+				</abstract>
+				<keywords>Sol–gel; silicon oxycarbide; organically modified inorganic gels; hydrolysis; pyrolysis; silicon carbide; cristoballites.</keywords>
+				<allauthors>
+					<author lname="Manocha" fname="L. M." isfellow="0">Manocha, L. M.</author>
+					<author lname="Yasuda" fname="E." isfellow="0">Yasuda, E.</author>
+					<author lname="Tanabe" fname="Y." isfellow="0">Tanabe, Y.</author>
+					<author lname="Manocha" fname="S." isfellow="0">Manocha, S.</author>
+					<author lname="Vashistha" fname="D." isfellow="0">Vashistha, D.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Collective modes in Ca$_{70}$Mg$_{30}$ glass</title>
+				<feature></feature>
+				<page>0005-0009</page>
+				<abstract>
+                    <p>The self-consistent phonon scheme given by Takeno and Goda, involving multiple scattering and phonon eigen frequencies which are expressed in terms of many-body correlation functions of atoms as well as of interatomic potential in the solids, has been used to generate the collective modes in the Ca$_{70}$Mg$_{30}$ glass. A model potential is proposed to describe the effective interaction in the glass. Three different forms of the local field correction functions viz. Hartree, Taylor and Ichimaru and Utsumi are used to examine relative influence of exchange and correlation effects. The phonon frequencies of the longitudinal and transverse modes are computed employing the theoretical formulation of Hubbard and Beeby. The elastic property of the glassy system is then studied using the long wavelength limits of the phonon modes. The theoretical computations reproduce much better dispersion curves (both for the longitudinal and transverse phonons) compared to earlier reports and are found to be in good agreement with the available experimental results due to neutron scattering.</p>
+				</abstract>
+				<keywords>Metallic glass; pair correlation function; phonon frequencies; sound velocities; elastic properties.</keywords>
+				<allauthors>
+					<author lname="Thakore" fname="B. Y." isfellow="0">Thakore, B. Y.</author>
+					<author lname="Gajjar" fname="P. N." isfellow="0">Gajjar, P. N.</author>
+					<author lname="Jani" fname="A. R." isfellow="0">Jani, A. R.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Synthesis and magnetic properties of one-dimensional metal oxalate networks as molecular-based magnets</title>
+				<feature>Molecular Magnets</feature>
+				<page>0011-0016</page>
+				<abstract>
+                    <p>The homo- and heteropolymetallic assemblies of MM $(OX)_2(H_2O)_4$ , where MM represents MnMn, CoMn, NiMn, CuMn, CoCo, NiCo, CuCo, NiNi, CuNi, and CuCu; and the respective complexes, numbered 1–10, have been prepared by reacting metal(II) salts—i.e. of Mn, Co, Ni, and Cu—and potassium oxalate monohydrate in hot water (90–100$^\circ $C). The magnetic susceptibility data of the complexes 8 and 9 in the 300 K–20 K temperature range obeys the Curie–Weiss law and exhibits Weiss constants – 50 K and – 100 K, respectively. On lowering the temperature, the effective magnetic moment decreases gradually and is indicative of antiferromagnetic phase transition. The complexes have also been characterized by ES mass spectrometry, infrared (IR), electronic, and electron spin resonance (ESR) spectra.</p>
+				</abstract>
+				<keywords>Molecular-based magnets; magnetic properties; one-dimensional metal oxalate; synthesis and structure of metal-oxalates.</keywords>
+				<allauthors>
+					<author lname="Singh" fname="B. P." isfellow="0">Singh, B. P.</author>
+					<author lname="Singh" fname="B." isfellow="0">Singh, B.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Dielectric properties of solution-grown-undoped and acrylic-acid-doped ethyl cellulose</title>
+				<feature>Polymers</feature>
+				<page>0017-0021</page>
+				<abstract>
+                    <p>Dielectric capacities and losses were measured, in the temperature (50–170$^\circ $C) and frequency (01–100 kHz range), for undoped and acrylic acid (AA) doped ethyl cellulose (EC) films (thickness about 20 $\mu$m) with progressive increase in the concentration of dopant in the polymer matrix. The variation of capacity with temperature is attributed to thermal expansion in the lower temperature region to the orientation of dipolar molecules in the neighbourhood of glass transition temperature ($T_g$) and random thermal motion of molecules above $T_g$. The dielectric losses exhibit a broad peak. Doping with AA is found to affect the magnitude and position of the peak. AA is found to have a two-fold action. Firstly, it enhances the chain mobility and secondly, it increases the dielectric loss by forming charge transfer complexes.</p>
+				</abstract>
+				<keywords>Dielectric capacity; losses; ethyl cellulose; acrylic acid; charge transfer complexes.</keywords>
+				<allauthors>
+					<author lname="Khare" fname="P. K." isfellow="0">Khare, P. K.</author>
+					<author lname="Jain" fname="Sandeep K." isfellow="0">Jain, Sandeep K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>An instrument for online measurement of structural orientation in translucent polymer sheets</title>
+				<feature></feature>
+				<page>0023-0026</page>
+				<abstract>
+                    <p>In many applications of polymer materials, a high tensile strength is required. There is a definite correlation between the degree of orientation of molecular chains achieved in the orientation process and the tensile strength obtained. In this work, we describe design and fabrication details of a device, ‘Laser based polymer orientation grader’, for online measurement of the degree of orientation to obtain a high consistent tensile strength as output. This instrument has been designed making skilful use of the optical anisotropic property of the oriented polymer strip. The principle is based on the fact that the spatial distribution of laser light passing through the translucent polymer sheet depends on the degree of orientation of long chain molecules in the sheet. The method has potential online application in monitoring and controlling of anisotropy in manufacturing processes.</p>
+				</abstract>
+				<keywords>Online measurement; tensile strength; molecular orientation of long chains; anisotropy; scattering; diffraction.</keywords>
+				<allauthors>
+					<author lname="Palanisamy" fname="P. K." isfellow="0">Palanisamy, P. K.</author>
+					<author lname="Mangaiyarkarasi" fname="D." isfellow="0">Mangaiyarkarasi, D.</author>
+					<author lname="Ramalingam" fname="A." isfellow="0">Ramalingam, A.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Characterization of plasticized PMMA–LiBF$_4$ based solid polymer electrolytes</title>
+				<feature></feature>
+				<page>0027-0029</page>
+				<abstract>
+                    <p>Polymer electrolyte films prepared from poly(methyl methacrylate) and LiBF$_4$  with different concentrations of plasticizer (DBP) are described. The formation of polymer–salt complex has been confirmed by FTIR spectral studies. The temperature dependence of conductivity of polymer films seems to obey the VTF relation. Values of conductivities of the polymer complexes are presented and discussed.</p>
+				</abstract>
+				<keywords>Polymer electrolyte; PMMA–LiBF$_4$–DBP; FTIR; impedance studies.</keywords>
+				<allauthors>
+					<author lname="Rajendran" fname="S." isfellow="0">Rajendran, S.</author>
+					<author lname="Uma" fname="T." isfellow="0">Uma, T.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Effect of ZrO$_2$ on conductivity of PVC–PMMA–LiBF$_4$–DBP polymer electrolytes</title>
+				<feature></feature>
+				<page>0031-0034</page>
+				<abstract>
+                    <p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Rajendran" fname="S." isfellow="0">Rajendran, S.</author>
+					<author lname="Uma" fname="T." isfellow="0">Uma, T.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Impact toughness of ternary Al–Zn–Mg alloys in as cast and homogenized condition measured in the temperature range 263–673 K</title>
+				<feature>Metallic Materials</feature>
+				<page>0035-0038</page>
+				<abstract>
+                    <p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Kundar" fname="Harish" isfellow="0">Kundar, Harish</author>
+					<author lname="" fname="Krishna" isfellow="0">Krishna</author>
+					<author lname="Srinivasan" fname="K." isfellow="0">Srinivasan, K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Role of diffusional coherency strain theory in the discontinuous precipitation in Mg–Al alloy</title>
+				<feature></feature>
+				<page>0039-0045</page>
+				<abstract>
+                    <p>Discontinuous precipitation (DP) occurs in many alloy systems under certain conditions. It is called discontinuous precipitation because precipitation occurs on prior matrix grain boundaries followed by grain boundary movement. The DP nodule consists of alternate lamellae of the precipitate and the matrix respectively. The chemical driving force for DP is one of solute supersaturation. Although solute supersaturation is responsible for precipitation, it has to be coupled with another driving force to explain grain boundary migration. This coupling driving force has been identified to be diffusional coherency strain which has been verified to be active in diffusion induced grain boundary migration and liquid film migration. To test diffusional coherency strain theory for discontinuous precipitation Mg–7Al and Mg–7Al–1Pb alloys were studied. While the fraction transformed was high at 6% in Mg–7Al alloy, it was significantly low at 2% in Mg–7Al–1Pb alloy. The velocity of DP nodules decreased by half in alloy with Pb as compared to the alloy without Pb. Theoretical calculations also predict that the misfit parameter $d_{th}$ decreases with the addition of Pb. These observations are an evidence to the fact that diffusional coherency strain is the most active driving force for the movement of the grain boundaries of the DP nodules during discontinuous precipitation in Mg–Al alloy.</p>
+				</abstract>
+				<keywords>DP; Mg–Al alloy; Mg–7Al–1Pb alloy; DIGM; LFM.</keywords>
+				<allauthors>
+					<author lname="Kashyap" fname="K. T." isfellow="0">Kashyap, K. T.</author>
+					<author lname="Ramachandra" fname="C." isfellow="0">Ramachandra, C.</author>
+					<author lname="Sujatha" fname="M." isfellow="0">Sujatha, M.</author>
+					<author lname="Chatterji" fname="B." isfellow="0">Chatterji, B.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Role of work hardening characteristics of matrix alloys in the strengthening of metal matrix composites</title>
+				<feature>Composites</feature>
+				<page>0047-0049</page>
+				<abstract>
+                    <p>The strengthening of particulate reinforced metal–matrix composites is associated with a high dislocation density in the matrix due to the difference in coefficient of thermal expansion between the reinforcement and the matrix. While this is valid, the role of work hardening characteristics of the matrix alloys in strengthening of these composites is addressed in the present paper. It is found that commercial purity aluminium which has the lowest work hardening rate exhibits the highest strength increment. This effect is due to increased prismatic punching of dislocations. This relationship of decreasing work hardening rate associated with increasing prismatic punching of dislocations in the order 7075, 2014, 7010, 2024, 6061 and commercial purity aluminium leading to increased strength increments is noted.</p>
+				</abstract>
+				<keywords>Metal matrix composites; strengthening; work hardening rate; dislocation density.</keywords>
+				<allauthors>
+					<author lname="Kashyap" fname="K. T." isfellow="0">Kashyap, K. T.</author>
+					<author lname="Ramachandra" fname="C." isfellow="0">Ramachandra, C.</author>
+					<author lname="Dutta" fname="C." isfellow="0">Dutta, C.</author>
+					<author lname="Chatterji" fname="B." isfellow="0">Chatterji, B.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Electrochemical processing of high-$T_c$ Bi(Pb)–Sr–Ca–CuO thin films</title>
+				<feature>High $T_c$ superconductors</feature>
+				<page>0051-0054</page>
+				<abstract>
+                    <p>Superconducting thin films of Bi(Pb)–Sr–Ca–CuO system were prepared by depositing the film onto silver substrate by d.c. electrodeposition technique with dimethyl sulphoxide bath in order to examine the effect of Pb addition to the BSCCO system. The films were deposited at the potential of – 0 8 V vs saturated calomel electrode (SCE) onto the silver substrate. The different preparative parameters such as deposition potential, deposition time were studied and optimized. These films were then oxidized electrochemically at room temperature in an alkaline (1 N KOH) solution, and also at 600$^\circ $C temperature in an oxygen atmosphere. The films showed the superconducting behaviour, with $T_c$  values ranging between 85 K and 96 K, respectively.</p>
+				</abstract>
+				<keywords>Superconductor; electrochemical deposition; thin films.</keywords>
+				<allauthors>
+					<author lname="Desai" fname="N. V." isfellow="0">Desai, N. V.</author>
+					<author lname="Ekal" fname="L. A." isfellow="0">Ekal, L. A.</author>
+					<author lname="Shivagan" fname="D. D." isfellow="0">Shivagan, D. D.</author>
+					<author lname="Pawar" fname="S. H." isfellow="0">Pawar, S. H.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Fe-ion implantation in pulse laser deposited La$_{0·75}$Ca$_{0·25}$MnO$_3$ films: Conversion electron Mössbauer spectroscopy and X-ray diffraction studies</title>
+				<feature>Magnetic Materials</feature>
+				<page>0055-0060</page>
+				<abstract>
+                    <p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Lanke" fname="U. D." isfellow="0">Lanke, U. D.</author>
+					<author lname="Pal" fname="J. Prabhjyot" isfellow="0">Pal, J. Prabhjyot</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Dehydration transformation in Ca-montmorillonite</title>
+				<feature>Clay Materials</feature>
+				<page>0061-0067</page>
+				<abstract>
+                    <p>The present work deals with the dehydration transformation of Ca-montmorillonite in the temperature range 30$^\circ $–500$^\circ $C. Thermal, infrared (IR), and X-ray diffraction (XRD) analyses were used to describe the thermal transformation. The microstructural and layer disorder parameters like crystallite size, r.m.s. strain ($e^{2\ 1/2}$), variation of interlayer spacing (g), and proportion of planes which were affected by the defect (g), have all been calculated from the (001) basal reflection using the method of variance and Fourier line shape analysis. These investigations revealed that sample underwent transformation from hydrated phase to dehydrated phase at 200$^\circ $C, and as a consequence, its basal spacing collapsed from 16 02 Å (30$^\circ $C) to around 10 Å (200$^\circ $C). This transformation occurred through a wide range of temperature, i.e. within the range 120$^\circ $–200$^\circ $C. The crystallite size was maximum at room temperature (30$^\circ $C), however, the size decreased with increasing temperature in the hydrated phase, whereas the size increased with increasing temperature for the dehydrated phase. The g, $g$ and e$^{2\ 1/2}$ of the hydrated and the dehydrated phase increased and decreased, respectively with increase of heating temperature.</p>
+				</abstract>
+				<keywords>Montmorillonite; layer disorder; microstructure parameters.</keywords>
+				<allauthors>
+					<author lname="Bala" fname="P." isfellow="0">Bala, P.</author>
+					<author lname="Samantaray" fname="B. K." isfellow="0">Samantaray, B. K.</author>
+					<author lname="Srivastava" fname="S. K." isfellow="0">Srivastava, S. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Effect of aluminium phosphate as admixture on oxychloride cement</title>
+				<feature>Cements</feature>
+				<page>0069-0072</page>
+				<abstract>
+                    <p>The effect of admixing of aluminium phosphate on oxychloride cement in the matrix has been investigated. It is shown that aluminium phosphate retards the setting process of the cement and improves water-tightness.</p>
+				</abstract>
+				<keywords>Aluminium phosphate; oxychloride cement.</keywords>
+				<allauthors>
+					<author lname="Chandrawat" fname="M. P. S." isfellow="0">Chandrawat, M. P. S.</author>
+					<author lname="Yadav" fname="R. N." isfellow="0">Yadav, R. N.</author>
+				</allauthors>
+			</entry>
+        </issue>
+        <issue inum="02" month="04" year="2000">
+			<entry issup="0">
+				<title>Microstructural features induced by spray forming of a ternary Pb–Sn–Sb alloy</title>
+				<feature>Materials Synthesis</feature>
+				<page>0073-0078</page>
+				<abstract>
+                    <p>An alloy containing Pb–12% Sn–12% Sb with small addition of copper and arsenic was spray deposited employing two different atomization gas pressure and nozzle to substrate distances. The temperature of the spray-deposit was measured during deposition at a distance of 2 and 10 mm above the substrate-deposit interface. Thermal profile data indicated small variation in temperature with time during deposition stage whereas during post deposition stage an exponential decrease in temperature was recorded. Second phase particle size along the thickness of the deposit varied from 4 to 8 $\mu$m compared to 70 to 80 $\mu$m size of these particles in the as cast alloy. Maximum porosity occurred in the section of the deposit near the contact surface of the substrate and also in its peripheral regions. X-ray diffraction analysis exhibited the formation of additional Cu$_2$Sb phase in the spray-deposit and CuSn and Cu$_{3.3}$Sb phases in atomized powders compared to that of the as cast alloy. The microstructural evolution during spray deposition of this alloy is discussed.</p>
+                </abstract>
+				<keywords>Spray forming; thermal profile; microstructure; second phase; porosity.</keywords>
+				<allauthors>
+					<author lname="Srivastava" fname="V. C." isfellow="0">Srivastava, V. C.</author>
+					<author lname="Upadhyaya" fname="Anish" isfellow="0">Upadhyaya, Anish</author>
+					<author lname="Ojha" fname="S. N." isfellow="0">Ojha, S. N.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Investigations on nucleation thermodynamical parameters of NdBa$_2$Cu$_3$O$_{7–\delta}$ (Nd123) crystallization by high temperature solution growth</title>
+				<feature></feature>
+				<page>0079-0082</page>
+				<abstract>
+                    <p>Investigations on nucleation thermodynamical parameters are very essential for the successful growth of good quality single crystals from high temperature solution. A theoretical estimation of the nucleation thermodynamical parameters like interfacial energy between the solid Nd123 and its flux BaO–CuO, metastable zone-width, Gibbs free energy, critical energy barrier for nucleation and critical nucleation radius have been calculated from the knowledge of solubility data and by applying the classical nucleation theory. Results are discussed to understand the growth kinetics of Nd123 crystals.</p>
+                </abstract>
+				<keywords>High temperature solution; nucleation parameters; interfacial energy; metastable zone width.</keywords>
+				<allauthors>
+					<author lname="Paul" fname="D. P." isfellow="0">Paul, D. P.</author>
+					<author lname="Jayavel" fname="R." isfellow="0">Jayavel, R.</author>
+					<author lname="Subramanian" fname="C." isfellow="0">Subramanian, C.</author>
+					<author lname="Ramasamy" fname="P." isfellow="0">Ramasamy, P.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Cadmium substituted high permeability lithium ferrite</title>
+				<feature>Magnetic Materials</feature>
+				<page>0083-0085</page>
+				<abstract>
+                    <p>Polycrystalline Li$_{0.5 – x/2}$Cd$_x$Fe$_{2.5 – x/2}$O$_4$ ferrites where $x =$ 0, 0.1, 0.2, 0.3, 0.4, 0.5 and 0.6 were prepared by a double sintering ceramic technique and characterized by X-ray diffraction and scanning electron microscopy (SEM). The lattice parameter is found to increase monotonically with the cadmium content. It is explained in terms of the sizes of component ions. The grain size of the samples increases up to $x =$ 0.3 and then it decreases for higher values of $x$. A similar trend is observed in the variation of Ms with Cd$^2+$ content. The initial permeability ($\mu_i$) is however found to increase continuously with $x$. The increase in $\mu_i$ is attributed to decrease of anisotropy constant K$_1$ and higher grain size of the samples.</p>
+                </abstract>
+				<keywords>Lithium ferrites; initial permeability; grain size; microstructure; magnetic properties.</keywords>
+				<allauthors>
+					<author lname="Bellad" fname="S. S." isfellow="0">Bellad, S. S.</author>
+					<author lname="Watawe" fname="S. C." isfellow="0">Watawe, S. C.</author>
+					<author lname="Shaikh" fname="A. M." isfellow="0">Shaikh, A. M.</author>
+					<author lname="Chougule" fname="B. K." isfellow="0">Chougule, B. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Influence of Nd$^{3+}$ substitution on thermoelectric power of Zn–Mg ferrite system</title>
+				<feature></feature>
+				<page>0087-0090</page>
+				<abstract>
+                    <p>Polycrystalline ferrites, Zn$_x$Mg$_{1 – x}$Fe$_{2 – y}$Nd$_y$O$_4$ ($x =$ 0.00, 0.20, 0.40, 0.60, 0.80 and 1.00; $y =$ 0.00, 0.05 and 0.10) were prepared by standard ceramic method. X-ray diffraction study of these compositions revealed the formation of single phase spinels. Seebeck coefficient was obtained from thermo emf measurement by keeping constant temperature difference of 10 K across the pellet. The values of Seebeck coefficient were found to be negative showing majority charge carriers of $n$-type, suggesting the mechanism of conduction to be predominantly by electron hopping. The substitution of Nd$^{3+}$ ion, which perhaps resides at the B-site, resulting in a decrease in the Seebeck coefficient. This decrease was assigned to the decrease of population of Fe$^{3+}$ ion at the B-site. The activation energies calculated both from mobility plots and from dc resistivity plots were found comparable. The Fermi energy, $E_F$(0), which was estimated by intrapolation of $E_F–T$ curves to $T$ $=$ 0 K, was found less than the activation energy. This difference was attributed to electron hopping energy.</p>
+                </abstract>
+				<keywords>Polycrystalline ferrite; rare-earth; Seebeck coefficient; electron hopping; Fermi energy.</keywords>
+				<allauthors>
+					<author lname="Ladgaonkar" fname="B. P." isfellow="0">Ladgaonkar, B. P.</author>
+					<author lname="Vasambekar" fname="P. N." isfellow="0">Vasambekar, P. N.</author>
+					<author lname="Vaingankar" fname="A. S." isfellow="0">Vaingankar, A. S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Magnetocaloric effect in temperature-sensitive magnetic fluids</title>
+				<feature></feature>
+				<page>0091-0095</page>
+				<abstract>
+                    <p>The magnetocaloric properties of three different temperature-sensitive magnetic fluids were studied. The pyromagnetic coefficient for all the materials were obtained and it was found that this property depends on physical and magnetic properties like size, magnetization and Curie temperature. A theoretical model was developed to explain the behaviour of change in entropy with temperature.</p>
+                </abstract>
+				<keywords>Magnetic fluid; pyromagnetic coefficient; Curie temperature.</keywords>
+				<allauthors>
+					<author lname="Parekh" fname="Kinnari" isfellow="0">Parekh, Kinnari</author>
+					<author lname="Upadhyay" fname="R. V." isfellow="0">Upadhyay, R. V.</author>
+					<author lname="Mehta" fname="R. V." isfellow="0">Mehta, R. V.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Comparison of the irreversible thermomagnetic behaviour of some ferro- and ferrimagnetic systems</title>
+				<feature></feature>
+				<page>0097-0101</page>
+				<abstract>
+                    <p>The magnetic behaviour of two ferromagnetic oxides and two ferrimagnetic oxides (ferrites) are compared to study the effect of magnetocrystalline anisotropy on thermal-history-dependence of magnetization of these ordered magnetic systems. All four compounds show thermomagnetic irreversibility ($M_{FC}$ &gt; $M_{ZFC}$) below a certain temperature, $T_{irr}$. The highly anisotropic ferromagnetic oxide, SrRuO$_3$ and the hard ferrite, SrFe$_{12}$O$_{19}$ show sharp peaks below $T_c$ in their $M_{ZFC}(T)$ curves, whereas for the soft ferrite Ni$_{0.8}$Zn$_{0.2}$Fe$_2$O$_4$ and the low anisotropic ferromagnetic oxide La$_{0.7}$Ca$_{0.3}$MnO$_3$ only a broad maximum is observed in $M_{ZFC}$, when measured in small magnetic fields. The shapes of the $M_{ZFC}(T)$ curves are inversely-related to the magnitude of the coercivities $(H_c)$ of the compounds in relation to the applied field, and the temperature dependence of $H_c$. $M_{FC}$ and $M_{ZFC}$ are related through the coercivity for all four magnetic systems.</p>
+                </abstract>
+				<keywords>Ferromagnet; ferrimagnet; thermomagnetic irreversibility; magnetocrystalline anisotropy; coercivity.</keywords>
+				<allauthors>
+					<author lname="Kumar" fname="P. S. Anil" isfellow="0">Kumar, P. S. Anil</author>
+					<author lname="Joy" fname="P. A." isfellow="0">Joy, P. A.</author>
+					<author lname="Date" fname="S. K." isfellow="0">Date, S. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Development, structure and strength properties of PP/PMMA/FA blends</title>
+				<feature>Polymers</feature>
+				<page>0103-0107</page>
+				<abstract>
+                    <p>A new type of flyash filled PP/PMMA blend has been developed. Structural and thermal properties of flyash (FA) filled polypropylene (PP)/polymethyl methacrylate (PMMA) blend system have been determined and analysed. Filled polymer blends were developed on a single screw extruder. Strength and thermal properties of FA filled and unfilled PP/PMMA blends were determined. Addition of flyash imparted dimensional and thermal stability, which has been observed in scanning electron micrographs and in TGA plot. Increase of flyash concentration increased the initial degradation temperature of PP/PMMA blend. The increase of thermal stability has been explained based on increased mechanical interlocking of PP/PMMA chains inside the hollow structure of flyash.</p>
+                </abstract>
+				<keywords>Flyash polymer composite; morphology; particulate.</keywords>
+				<allauthors>
+					<author lname="Chand" fname="Navin" isfellow="0">Chand, Navin</author>
+					<author lname="Vashishtha" fname="S. R." isfellow="0">Vashishtha, S. R.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Optimization of processing parameters for making alumina–partially stabilized zirconia laminated composites</title>
+				<feature>Composites</feature>
+				<page>0109-0117</page>
+				<abstract>
+                    <p>The aim of the work was to optimize the processing parameters for fabricating laminated ceramic composites of Al$_2$O$_3$–Y–PSZ. Composites of different layer thicknesses, starting from 2 mm and going down up to 0.3 mm, were made by hot-pressing. The different types of cracks originating in the composite were studied in detail and the reason behind their formation analysed. The observed main reasons for crack formation were: (i) differential shrinkage in between the co-sintering layers due to their different sintering kinetics, (ii) thermal expansion mismatch, and (iii) a tensile component of the residual stress in the layer under residual compressive stress. After this defect analysis, suitable remedial measures were taken to avoid the crack formation. And finally a laminated composite with fifteen layers of 0.3 mm thickness was made successfully.</p>
+                </abstract>
+				<keywords>Al$_2$O$_3$–Y–PSZ laminated composites; hot pressing; residual stress; transverse cracks; longitudinal cracks.</keywords>
+				<allauthors>
+					<author lname="Deb" fname="S." isfellow="0">Deb, S.</author>
+					<author lname="Bhat" fname="B. V. Radhakrishna" isfellow="0">Bhat, B. V. Radhakrishna</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>An algorithm for generating quasiperiodic patterns and their approximants</title>
+				<feature>Quasicrystals</feature>
+				<page>0119-0123</page>
+				<abstract>
+                    <p>An algorithm for projecting the interior of a hypercube in $N$-dimensions on to an $m$-dimensional subspace has been developed and incorporated into a computer program for generating quasiperiodic and periodic patterns in an $n$-dimensional subspace. Some aspects of the resulting orthorhombic approximants to Penrose tiling patterns are discussed and illustrated.</p>
+                </abstract>
+				<keywords>Projection method; quasiperiodic; tiling patterns; approximants.</keywords>
+				<allauthors>
+					<author lname="Lord" fname="E. A." isfellow="0">Lord, E. A.</author>
+					<author lname="Ramakrishnan" fname="K." isfellow="0">Ramakrishnan, K.</author>
+					<author lname="Ranganathan" fname="S." isfellow="0">Ranganathan, S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Application of design of experiment on electrophoretic deposition of glass-ceramic coating materials from an aqueous bath</title>
+				<feature>Glass Ceramics</feature>
+				<page>0125-0129</page>
+				<abstract>
+                    <p>A process for application of abrasion- or corrosion-resistant glass-ceramic coating materials on metal substrate by electrophoretic deposition technique in an aqueous medium has been described. The effects of various process parameters, e.g. coating material concentration, time of deposition, applied current, pH of the suspension and concentration of the polymeric dispersant on the deposition efficiency have been studied. The process has been studied using a 2$^3$-factorial design technique of three independent variables; i.e. coating material concentration, applied current, and the time taken to achieve the best combination. The regression equation obtained explains the experimental results satisfactorily.</p>
+                </abstract>
+				<keywords>Coating; electrophoretic deposition; glass-ceramic; design of experiment.</keywords>
+				<allauthors>
+					<author lname="Datta" fname="Someswar" isfellow="0">Datta, Someswar</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>A combined optical, SEM and STM study of growth spirals on the polytypic cadmium iodide crystals</title>
+				<feature>Polytypic Materials</feature>
+				<page>0131-0133</page>
+				<abstract>
+                    <p>Some novel results of a combined sequential study of growth spirals on the basal surface of the richly polytypic CdI$_2$ crystals by optical microscopy, scanning electron microscopy (SEM) and scanning tunneling microscopy (STM) are presented and discussed. In confirmation of the known structural data, the STM pictures clearly reveal the value of unit cell $a(=\ b)$ dimension to be equal to 0.428 nm a and the value of the interaxial angle $\gamma $ to be equal to 120$^\circ $. Under the high resolution and magnification achieved in the scanning electron microscope, the growth steps of large heights seen in the optical micrographs are found to have a large number of additional steps of smaller heights existing between any two adjacent large height growth steps. When further seen by a scanning tunneling microscope, which provides still higher resolution, several unit substeps are seen to exist between two consecutive additional steps. The height of each substep is found to be equal to the unit cell height of the underlying polytype. The height of the larger additional steps are found to be integral multiple of the unit cell height. The horizontal distance between two consecutive growth steps is found to be an integral multiple of the lattice parameter $a$. The interspacing of the growth steps of same step height is found to vary at different positions on the same crystal face.</p>
+                </abstract>
+				<keywords>CdI$_2$; polytypism; scanning tunneling microscopy (STM), spiral step height; dislocation.</keywords>
+				<allauthors>
+					<author lname="Singh" fname="Rajendra" isfellow="0">Singh, Rajendra</author>
+					<author lname="Samanta" fname="S. B." isfellow="0">Samanta, S. B.</author>
+					<author lname="Narlikar" fname="A. V." isfellow="0">Narlikar, A. V.</author>
+					<author lname="Trigunayat" fname="G. C." isfellow="0">Trigunayat, G. C.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>On the development of an apatitic calcium phosphate bone cement</title>
+				<feature>Biomaterials</feature>
+				<page>0135-0140</page>
+				<abstract>
+                    <p>Development of an apatitic calcium phosphate bone cement is reported. 100 $\mu$ Particles of tetracalcium phosphate (TTCP) and dicalcium phosphate dihydrate (DCPD) were mixed in equimolar ratio to form the cement powder. The wetting medium used was distilled water with Na$_2$HPO$_4$ as accelerator to manipulate the setting time. The cement powder, on wetting with the medium, formed a workable putty. The setting times of the putty were measured using a Vicat type apparatus and the compressive strength was determined with a Universal Testing Machine. The nature of the precipitated cement was analyzed through X-ray diffraction (XRD), fourier transform infrared spectrometry (FTIR) and energy dispersive electron microprobe (EDAX). The results showed the phase to be apatitic with a calcium–to–phosphorous ratio close to that of hydroxyapatite. The microstructure analysis using scanning electron microscopy (SEM) showed hydroxyapatite nanocrystallite growth over particulate matrix surface. The structure has an apparent porosity of $\sim$ 52%. There were no appreciable dimensional or thermal changes during setting. The cement passed the $in\ vitro$ toxicological screening (cytotoxicity and haemolysis) tests. Optimization of the cement was done by manipulating the accelerator concentration so that the setting time, hardening time and the compressive strength had clinically relevant values.</p>
+                </abstract>
+				<keywords>Calcium phosphate cements; tetracalcium phosphate; hydroxyapatite; bioceramics; bone substitute.</keywords>
+				<allauthors>
+					<author lname="Komath" fname="Manoj" isfellow="0">Komath, Manoj</author>
+					<author lname="Varma" fname="H. K." isfellow="0">Varma, H. K.</author>
+					<author lname="Sivakumar" fname="R." isfellow="0">Sivakumar, R.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Thermal behaviour of hydroxides, hydroxysalts and hydrotalcites</title>
+				<feature>Thermal Properties</feature>
+				<page>0141-0145</page>
+				<abstract>
+                    <p>Mass spectrometric analysis of gases evolved during thermal decomposition of divalent metal hydroxides, hydroxysalts and hydrotalcites show that all these compounds undergo dehydration in the temperature range 30 &lt; T &lt; 220$^\circ $C followed by decomposition at temperatures above 250$^\circ $C. The latter step involves simultaneous deanation and dehydroxylation of the layers. Our observations conclusively prove that alternative mechanisms which envisage CO$_2$ evolution due to deanation at lower temperatures proposed by Kanezaki to be wrong.</p>
+                </abstract>
+				<keywords>Hydroxides; hydrotalcites; temperature programmed decomposition (TPD).</keywords>
+				<allauthors>
+					<author lname="Bera" fname="Parthasarathi" isfellow="0">Bera, Parthasarathi</author>
+					<author lname="Rajamathi" fname="Michael" isfellow="0">Rajamathi, Michael</author>
+					<author lname="Hegde" fname="M. S." isfellow="0">Hegde, M. S.</author>
+					<author lname="Kamath" fname="P. Vishnu" isfellow="0">Kamath, P. Vishnu</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Systematic hardness studies on lithium niobate crystals</title>
+				<feature>Mechanical Properties</feature>
+				<page>0147-0150</page>
+				<abstract>
+                    <p>In view of discrepancies in the available information on the hardness of lithium niobate, a systematic study of the hardness has been carried out. Measurements have been made on two pure lithium niobate crystals with different growth origins, and a Fe-doped sample. The problem of load variation of hardness is examined in detail. The true hardness of LiNbO$_3$ is found to be 630 $\pm$ 30 kg/mm$^2$. The Fe-doped crystal has a larger hardness of 750 $\pm$ 50 kg/mm$^2$.</p>
+                </abstract>
+				<keywords>Microhardness; lithium niobate.</keywords>
+				<allauthors>
+					<author lname="Subhadra" fname="K. G." isfellow="0">Subhadra, K. G.</author>
+					<author lname="Rao" fname="K. Kishan" isfellow="0">Rao, K. Kishan</author>
+					<author lname="Sirdeshmukh" fname="D. B." isfellow="0">Sirdeshmukh, D. B.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>A CCD area detector for X-ray diffraction under high pressure for rotating anode source</title>
+				<feature>Instrumentation</feature>
+				<page>0151-0154</page>
+				<abstract>
+                    <p>Details of a two-dimensional X-ray area detector developed using a charge coupled device, a image intensifier and a fibre optic taper are given. The detector system is especially optimized for angle dispersive X-ray diffraction set up using rotating anode generator as X-ray source. The performance of this detector was tested by successfully carrying out powder X-ray diffraction measurements on various materials such as intermetallics AuIn$_2$, AuGa$_2$, high $Z$ material Pd and low $Z$ scatterer adamantane (C$_{10}$H$_{16}$) at ambient conditions. Its utility for quick detection of phase transitions at high pressures with diamond anvil cell is demonstrated by reproducing the known pressure induced structural transitions in RbI, KI and a new structural phase transition in AuGa$_2$ above 10 GPa. Various softwares have also been developed to analyze data from this detector.</p>
+                </abstract>
+				<keywords>CCD X-ray detector; X-ray diffraction; high pressure studies.</keywords>
+				<allauthors>
+					<author lname="Sinha" fname="Amar" isfellow="0">Sinha, Amar</author>
+					<author lname="Garg" fname="Alka B." isfellow="0">Garg, Alka B.</author>
+					<author lname="Vijayakumar" fname="V." isfellow="0">Vijayakumar, V.</author>
+					<author lname="Godwal" fname="B. K." isfellow="0">Godwal, B. K.</author>
+					<author lname="Sikka" fname="S. K." isfellow="0">Sikka, S. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Radiation dosimetry by potassium feldspar</title>
+				<feature></feature>
+				<page>0155-0158</page>
+				<abstract>
+                    <p>The thermoluminescence (TL) properties of raw and annealed feldspar have been studied for their use in gamma dosimetry. The raw gamma exposed feldspar shows glow peaks at 120$^\circ $C and 319$^\circ $C. Gamma dose beyond 500 cGy can be measured without any significant fading even after 40 days of termination of exposure. The annealed feldspar shows a glow peak at 120$^\circ $C after gamma exposure. This peak can be used to measure gamma doses beyond 25 cGy when the TL is measured after 24 h from termination of exposure.</p>
+                </abstract>
+				<keywords>Potassium feldspar; thermoluminescence; fading; glow curve.</keywords>
+				<allauthors>
+					<author lname="Pandya" fname="Arun" isfellow="0">Pandya, Arun</author>
+					<author lname="Vaijapurkar" fname="S. G." isfellow="0">Vaijapurkar, S. G.</author>
+					<author lname="Bhatnagar" fname="P. K." isfellow="0">Bhatnagar, P. K.</author>
+				</allauthors>
+			</entry>
+        </issue>
+        <issue inum="03" month="06" year="2000">
+			<entry issup="0">
+				 <title>A note on the use of ellipsometry for studying the kinetics of formation of self-assembled monolayers</title>
+				<feature>Nanomaterials</feature>
+				<page>0159-0163</page>
+				<abstract>
+                    <p>Ellipsometry is currently one of the most important techniques for characterization of the deposition and growth mode of ultra thin organic films. However, it is well known that for thicknesses normally encountered in organic monolayer films, as would occur for example in self-assembled monolayers, ellipsometry cannot be used to simultaneously determine the thickness and refractive index of the monolayer film. Current practice is to assume a reasonable value for the film refractive index and calculate an effective ‘ellipsometric thickness’. This communication seeks to show that the alternative approach of assuming a thickness for the monolayer (determined by the length of the molecule) and calculating the effective film refractive index lends itself to easier and more meaningful physical interpretation. The Lorentz–Lorenz formula is then used to transform the effective refractive index into a surface coverage and hence to an effective mass coverage. The methodology advanced is applied to the kinetics of formation of a self-assembled monolayer of a well-studied molecule, octadecanethiol on Au.</p>
+                </abstract>
+				<keywords>Ellipsometry; self-assembled monolayers; organic thin films; Lorentz–Lorenz formula.</keywords>
+				<allauthors>
+					<author lname="Sastry" fname="Murali" isfellow="0">Sastry, Murali</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Study of interaction of ethylene glycol/PVP phase on noble metal powders prepared by polyol process</title>
+				<feature></feature>
+				<page>0165-0168</page>
+				<abstract>
+                    <p>Noble metal powders (Au, Ag, Pt, Pd and Ru) have been synthesized by the polyol process in both the nanometer and submicron scales ($sans$ Pd, Pt and Ru). They have been characterized by both microscopic (TEM and SEM) as well as spectroscopic techniques (FT-IR and XPS). Infrared spectroscopy was employed to study the colloid particles in the presence of ethylene glycol and PVP and the results show that the interaction between the organic phase and the metal particles vary according to the particle size. The role of the solvent, ethylene glycol, during the reduction process was also investigated and we observe formation of &gt;C$=$O vibration band after the reduction process implying that the solvent reduces the metal ions thereby getting oxidized. XPS measurements carried out on the colloidal sols have shown the presence of the organic phase adsorbed onto the metal particles.</p>
+                </abstract>
+				<keywords>Metal nanoparticles; infrared spectroscopy.</keywords>
+				<allauthors>
+					<author lname="Bonet" fname="F." isfellow="0">Bonet, F.</author>
+					<author lname="Tekaia-Elhsissen" fname="K." isfellow="0">Tekaia-Elhsissen, K.</author>
+					<author lname="Sarathy" fname="K. Vijaya" isfellow="0">Sarathy, K. Vijaya</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>La$_{0.9}$Sr$_{0.1}$Ga$_{0.8}$M$_{0.2}$O$_{3–\delta}$ (M = Mn, Co, Ni, Cu or Zn): Transition metal-substituted derivatives of lanthanum–strontium–gallium–magnesium (LSGM) perovskite oxide ion conductor</title>
+				<feature>Ionic Conductors</feature>
+				<page>0169-0173</page>
+				<abstract>
+                    <p>Perovskite oxides of the general formula, La$_{0.9}$Sr$_{0.1}$Ga$_{0.8}$M$_{0.2}$O$_{3–\delta}$ for M = Mn, Co, Ni, Cu and Zn, have been prepared and investigated. All the oxides exhibit high electrical conductivities ($\sigma \sim$ 10$^{–2}$ S/cm at 800$^\circ $C) comparable to that of the best perovskite oxide ion conductor, La$_{0.9}$Sr$_{0.1}$Ga$_{0.8}$Mg$_{0.2}$O$_{2.85}$ (LSGM) ($\sigma \sim$ 8 $\times$ 10$^{–2}$ S/cm at 800$^\circ $C). While M = Mn, Co, Ni, Cu members appear to be mixed conductors with a variable electronic contribution to the conductivity, especially at high oxygen partial pressures ($pO_2 \geq$ 1 atm), arising from mixed-valency of the transition metals, the M $=$ Zn(II) phase is a pure oxide ion conductor exhibiting a conductivity ($\sigma \sim$ 1.5 $\times$ 10$^{–2}$ S/cm at 800$^\circ $C) that is slightly lower than that of LSGM. The lower conductivity of the M $=$ Zn(II) derivative could be due to the preference of Zn(II) for a tetrahedral oxygen coordination.</p>
+                </abstract>
+				<keywords>LSGM substitution; mixed ionic–electronic conductors; oxide ion conductor.</keywords>
+				<allauthors>
+					<author lname="Sebastian" fname="Litty" isfellow="0">Sebastian, Litty</author>
+					<author lname="Shukla" fname="A. K." isfellow="0">Shukla, A. K.</author>
+					<author lname="Gopalakrishnan" fname="J." isfellow="0">Gopalakrishnan, J.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Synthesis and structural characterization of Na$_2$MnP$_2$O$_7$ crystal</title>
+				<feature></feature>
+				<page>0175-0178</page>
+				<abstract>
+                    <p>Na$_2$MnP$_2$O$_7$ crystals were synthesized by hydrothermal technique. Crystals obtained are in the form of single crystals of rhombohedral morphology with lattice parameters as follows: triclinic, $P \bar{1}$, $\lambda$ = 0.71069 Å, a = 6.657(3) Å, b = 6.714(6) Å, c = 6.518(4) Å, $\alpha$ = 112.31(6)$^\circ $, $\beta$ = 92.14(4)$^\circ $, $\gamma$ = 83.89(5)$^\circ $, $V$ = 268.0(3) Å${}^3$, $Z$ = 2, $\rho_{cal}$ = 2, 3.121 g/cm$^3$, $\mu$ = 3.121 mm$^{–1}$, $F_{000}$ = 244, goodness-of-fit on $F$ = 1.348, final $R$ indices with $[I &gt; 3\sigma(I)]$ $R$ = 0.051 and $\omega R$ = 0.065.</p>
+                </abstract>
+				<keywords>NASICON; hydrothermal; crystal structure.</keywords>
+				<allauthors>
+					<author lname="Lokanath" fname="N. K." isfellow="0">Lokanath, N. K.</author>
+					<author lname="Sridhar" fname="M. A." isfellow="0">Sridhar, M. A.</author>
+					<author lname="Prasad" fname="J. Shashidhara" isfellow="0">Prasad, J. Shashidhara</author>
+					<author lname="Gopalakrishna" fname="G. S." isfellow="0">Gopalakrishna, G. S.</author>
+					<author lname="Ashamanjari" fname="K. G." isfellow="0">Ashamanjari, K. G.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Study of lithium glassy solid electrolyte/electrode interface by impedance analysis</title>
+				<feature>Glasses</feature>
+				<page>0179-0183</page>
+				<abstract>
+                    <p>Cells of lithium ion conducting glassy electrolyte Li$_2$SO$_4$–Li$_2$O–B$_2$O$_3$ with different combinations of electrodes (stainless steel blocking electrode, lithium non-blocking electrode and TiS$_2$ electrode) have been prepared. The a.c. impedance measurements of the cells have been studied at elevated temperature as a function of time. The circuit elements such as bulk resistance, double layer capacitance and charge transfer resistance have been inferred and their time dependence studied. The results show that the electrolyte and the interface are chemically very stable with the different types of electrodes studied here.</p>
+                </abstract>
+				<keywords>Solid electrolyte; lithium ion conducting glass; microbattery; electrode–electrolyte compatibility; impedance spectroscopy.</keywords>
+				<allauthors>
+					<author lname="Karthikeyan" fname="A." isfellow="0">Karthikeyan, A.</author>
+					<author lname="Vinatier" fname="P." isfellow="0">Vinatier, P.</author>
+					<author lname="Levasseur" fname="A." isfellow="0">Levasseur, A.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Nucleation and growth of a multicomponent metallic glass</title>
+				<feature></feature>
+				<page>0185-0188</page>
+				<abstract>
+                    <p>The metallic glass samples of Fe$_{67}$Co$_{18}$B$_{14}$Si$_1$ (2605CO), prepared by the melt spinning technique were procured from the Allied Corporation. The kinetics of crystallization of this multicomponent glassy alloy is studied using differential scanning calorimetry (DSC). The crystallization data have been examined in terms of modified Kissinger and Matusita equations for the non-isothermal crystallization. The results show enhanced bulk nucleation in general. At high heating rates added to it is surface induced abnormal grain growth resulting in fractal dimensionality.</p>
+                </abstract>
+				<keywords>Activation energy; isothermal annealing; abnormal grain growth; fractal dimensionality.</keywords>
+				<allauthors>
+					<author lname="Pratap" fname="Arun" isfellow="0">Pratap, Arun</author>
+					<author lname="Raval" fname="K. G." isfellow="0">Raval, K. G.</author>
+					<author lname="Gupta" fname="Ajay" isfellow="0">Gupta, Ajay</author>
+					<author lname="Kulkarni" fname="S. K." isfellow="0">Kulkarni, S. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Effect of alloy elements on the anti-corrosion properties of low alloy steel</title>
+				<feature>Alloys and Steels</feature>
+				<page>0189-0192</page>
+				<abstract>
+                    <p>Effect of alloy elements on corrosion of low alloy steel was studied under simulated offshore conditions. The results showed that the elements Cu, P, Mo, W, V had evident effect on corrosion resistance in the atmosphere zone; Cu, P, V, Mo in the splash zone and Cr, Al, Mo in the submerged zone.</p>
+                </abstract>
+				<keywords>Low alloy steel; anti-corrosion; electric connection.</keywords>
+				<allauthors>
+					<author lname="Hou" fname="Baorong" isfellow="0">Hou, Baorong</author>
+					<author lname="Li" fname="Yantao" isfellow="0">Li, Yantao</author>
+					<author lname="Li" fname="Yanxu" isfellow="0">Li, Yanxu</author>
+					<author lname="Zhang" fname="Jinglei" isfellow="0">Zhang, Jinglei</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>A study on fatigue crack growth in dual phase martensitic steel in air environment</title>
+				<feature></feature>
+				<page>0193-0199</page>
+				<abstract>
+                    <p>Dual phase (DP) steel was intercritically annealed at different temperatures from fully martensitic state to achieve martensite plus ferrite, microstructures with martensite contents in the range of 32 to 76%. Fatigue crack growth (FCG) and fracture toughness tests were carried out as per ASTM standards E 647 and E 399, respectively to evaluate the potential of DP steels. The crack growth rates $(da/dN)$ at different stress intensity ranges ($\Delta K$) were determined to obtain the threshold value of stress intensity range ($\Delta K_{th}$). Crack path morphology was studied to determine the influence of microstructure on crack growth characteristics. After the examination of crack tortuosity, the compact tension (CT) specimens were pulled in static mode to determine fracture toughness values. FCG rates decreased and threshold values increased with increase in vol.% martensite in the DP steel. This is attributed to the lower carbon content in the martensite formed at higher intercritical annealing (ICA) temperatures, causing retardation of crack growth rate by crack tip blunting and/or deflection. Roughness induced crack closure was also found to contribute to the improved crack growth resistance at higher levels of martensite content. Scanning electron fractography of DP steel in the near threshold region revealed transgranular cleavage fracture with secondary cracking. Results indicate the possibility that the DP steels may be treated to obtain an excellent combination of strength and fatigue properties.</p>
+                </abstract>
+				<keywords>Dual phase (DP) steel; fatigue crack growth; fracture toughness; stress intensity range; intercritical annealing; crack closure.</keywords>
+				<allauthors>
+					<author lname="Sudhakar" fname="K. V." isfellow="0">Sudhakar, K. V.</author>
+					<author lname="Dwarakadasa" fname="E. S." isfellow="0">Dwarakadasa, E. S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Helium implanted $\rm\underline{Al}$Hf as studied by ${}^{181}$Ta TDPAC</title>
+				<feature>Defect Studies</feature>
+				<page>0201-0206</page>
+				<abstract>
+                    <p>Time differential perturbed angular correlation (TDPAC) measurement on $\rm\underline{Al}$Hf reference sample has shown that a fraction 0.88 of probe nuclei are defect free and are occupying the substitutional sites in fcc Al matrix, and the remaining are associated with Hf solute clusters. Measurements on helium implanted sample indicate the binding of helium associated defects by Hf solute clusters. Isochronal annealing measurements indicate the dissociation of the helium implantation induced defects from Hf solute clusters for annealing treatments beyond 650 K. On comparison of the present results with that reported in $\rm\underline{Cu}$Hf subjected to identical helium implantation, it is inferred that the Hf solute clusters in $\rm\underline{Al}$Hf bind less strongly the helium associated defects than in $\rm\underline{Cu}$Hf.</p>
+                </abstract>
+				<keywords>TDPAC; electric field gradient; Hf solute clusters; helium-vacancy complex; defect recovery.</keywords>
+				<allauthors>
+					<author lname="Govindaraj" fname="R." isfellow="0">Govindaraj, R.</author>
+					<author lname="Gopinathan" fname="K. P." isfellow="0">Gopinathan, K. P.</author>
+					<author lname="Viswanathan" fname="B." isfellow="0">Viswanathan, B.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Optimization of growth of InGaAs/InP quantum wells using photoluminescence and secondary ion mass spectrometry</title>
+				<feature>Semiconducting Materials</feature>
+				<page>0207-0210</page>
+				<abstract>
+                    <p></p>
+                </abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Bhunia" fname="S." isfellow="0">Bhunia, S.</author>
+					<author lname="Banerji" fname="P." isfellow="0">Banerji, P.</author>
+					<author lname="Chaudhuri" fname="T. K." isfellow="0">Chaudhuri, T. K.</author>
+					<author lname="Haldar" fname="A. R." isfellow="0">Haldar, A. R.</author>
+					<author lname="Bose" fname="D. N." isfellow="0">Bose, D. N.</author>
+					<author lname="Aparna" fname="Y." isfellow="0">Aparna, Y.</author>
+					<author lname="Chettri" fname="M. B." isfellow="0">Chettri, M. B.</author>
+					<author lname="Chakraborty" fname="B. R." isfellow="0">Chakraborty, B. R.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+                    <p></p>
+                </abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+                    <p></p>
+                </abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+                    <p></p>
+                </abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+                    <p></p>
+                </abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+                    <p></p>
+                </abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+                    <p></p>
+                </abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+        </issue>
+    </volume>
+</bms>

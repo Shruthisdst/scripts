@@ -1,0 +1,1 @@
+echo "select authorname from author" | /usr/bin/mysql -uroot -pmysql bvb > author.txt
